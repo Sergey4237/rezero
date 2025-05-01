@@ -1,0 +1,13 @@
+header{
+  background-color:#408DD2
+}
+a{color:#E83A93; text-decoration:none}
+main{background-color:#4380D3}
+footer{background-color:#408DD2}
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  z-index: 1000;
+}
